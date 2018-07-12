@@ -1,15 +1,14 @@
 body {
     background-image:url("https://data.whicdn.com/images/264752809/superthumb.jpg?t=1478015637");
     background-position: 2.5rem;
-    background-repeat: no repeat;
-    background-size: cover;
     margin: 0;
     height:100%;
 }
 #example{
     font-size: 2.5rem;
-    color: rebeccapurple
+    color: gold
 }
 #span{
-    color: brown
+    color:rebeccapurple;
+    font-family: cursive
 }
