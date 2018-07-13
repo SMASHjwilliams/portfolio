@@ -1,14 +1,40 @@
-body {
-    background-image:url("https://data.whicdn.com/images/264752809/superthumb.jpg?t=1478015637");
+#body {
+    background-image: url("https://data.whicdn.com/images/264752809/superthumb.jpg?t=1478015637");
     background-position: 2.5rem;
     margin: 0;
-    height:100%;
+    height: 100%;
 }
-#example{
+
+#example {
     font-size: 2.5rem;
-    color: gold
+    font-family: cursive;
+    color: rebeccapurple
 }
-#span{
-    color:rebeccapurple;
-    font-family: cursive
+
+#span {
+    color: gold;
+    font-family: cursive;
+}
+
+h1 {
+    font-weight: bold;
+    font-family: cursive;
+}
+
+#right {
+    float: right
+}
+
+#left {
+    float: left
+}
+
+#linkcolor {
+    color: white
+}
+
+.cursive {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+    font-weight: inherit
 }
