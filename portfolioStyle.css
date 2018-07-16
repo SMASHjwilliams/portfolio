@@ -38,10 +38,18 @@ h1 {
 
 #linkcolor {
     color: white
+    
 }
 
 .cursive {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: red;
     font-weight: inherit
+}
+#background {
+    background: linear-gradient(black,red,orange,yellow)
+}
+a:hover {
+    background-color: red;
+    font-size: 150%;
 }
