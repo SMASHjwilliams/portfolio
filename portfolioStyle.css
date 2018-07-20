@@ -23,7 +23,7 @@ h1 {
 #right {
     float: right;
     animation-name: appear;
-    animation-duration:5s;
+    animation-duration: 5s;
 }
 
 #left {
@@ -71,7 +71,7 @@ a:hover {
     }
     50% {
         transform: scale(1.5);
-        opacity: 1;
+        opacity: 0.5;
     }
     100% {
         transform: scale(1);
