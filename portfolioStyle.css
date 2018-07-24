@@ -1,3 +1,4 @@
+
 #body {
     background-image: url("https://data.whicdn.com/images/264752809/superthumb.jpg?t=1478015637");
     background-position: 2.5rem;
@@ -28,7 +29,7 @@ h1 {
 
 #left {
     float: left;
-    width: 670px;
+    width: 900px;
     font-size: 30px;
     box-sizing: border-box;
     padding: 50px;
