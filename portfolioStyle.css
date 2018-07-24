@@ -26,34 +26,40 @@ h1 {
     animation-name: appear;
     animation-duration: 5s;
 }
+#computeriframe {
+    height: 600px;
+    width: 100%;
+}
 
 #left {
     float: left;
     width: 900px;
+    height: 500px;
     font-size: 30px;
     box-sizing: border-box;
-    padding: 50px;
     border-style: double;
     border-color: blueviolet;
     border-width: 30px
 }
 
 #linkcolor {
-    color: white
+    color: black;
 }
 
 .cursive {
     font-family: 'Gaegu', cursive;
     color: red;
-    font-weight: inherit
+    font-weight: inherit;
+    display: inline-end;
 }
 
 #background {
-    background: linear-gradient(black, red, orange, yellow)
+    background: white;
 }
 
 a:hover {
-    background-color: red;
+    outline-color: blueviolet;
+    color: red;
     font-size: 150%;
 }
 
@@ -63,6 +69,17 @@ a:hover {
 
 #meriends {
     font-family: 'Merienda', cursive;
+}
+
+.signature {
+    border-top: 10px;
+    border-top-style: solid;
+    font-family: 'Gaegu';
+    font-size: small;
+    height: 65px;
+    max-width: 900px;
+    padding: 1em;
+    float: right;
 }
 
 @keyframes appear {
