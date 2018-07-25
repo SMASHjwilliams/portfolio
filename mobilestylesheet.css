@@ -2,6 +2,9 @@
     #left {
         width: 725px;
     }
+    #right {
+        width:100%
+    }
 }
 
 @media all and (orientation: portrait) and (max-width: 415px) {
@@ -13,3 +16,12 @@
         width: 100%
     }
 }
+@media all and (orientation: portrait) and (max-width: 375px) {
+    #left {
+        width: 365px;
+        align-content: middle;
+    }
+    #right {
+        width:100%;
+    }
+    }
