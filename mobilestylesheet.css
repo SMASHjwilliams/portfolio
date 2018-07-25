@@ -1,6 +1,6 @@
 @media all and (orientation: landscape) and (max-width: 750px) {
     #left {
-        width: 725px;
+        width: 725px;`
     }
     #right {
         width:100%
