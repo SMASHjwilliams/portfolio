@@ -1,0 +1,38 @@
+Portfolio final grade: 106
+
+Comments:  Outstanding job!  You not only included everything we covered in class, you  went above and beyond.  Your CSS shows an advanced understanding of the material, and you didn't take the easy way out and just do the bare minimum.
+
+########
+
+Code Quality:  Does it follow proper HTML and CSS rules, including the Clean HTML Tips and other issues noted in class?
+
+Grade: 100
+(50% of overall grade)
+
+Points deducted for these items:
+    none - great job!
+
+########
+
+Design and Accessibility:  Does it incorporate the CSS techniques covered in class and incorporate accessibility support for at least one of the areas we discussed?
+
+Grade: 100
+(25% of overall grade)
+
+Points deducted for these items:
+    none - again, great job!
+
+########
+
+Advanced CSS:  Does it use advanced css techniques, like animations/transitions and media queries for mobile responsiveness?
+
+Grade: 125
+(25% of overall grade)
+
+Points deducted for these items:
+    none - You really stood out and clearly put a lot off effort in to your site.
+
+Bonus points awarded for these items:
+    +10 for using both animations and transitions.
+    +10 for proper inclusion of CSS properties not covered in class.
+    +5 for including media queries to address multiple screen sizes on mobile devices.
